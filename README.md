@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Panjari Shah Banner" width="100%" />
+</p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Panjari Shah</h1>
 
 <h3 align="center">
